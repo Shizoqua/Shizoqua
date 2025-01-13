@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lanre Shittu</h1>
-<h3 align="center">A passionate AI developer from United Kingdom</h3>
+<h3 align="center">A passionate AI Engineer from United Kingdom</h3>
 
 - 📫 How to reach me **hr.lanreshittu@gmail.com**
 
-- ⚡ Fun fact **I like travelling**
+- ⚡ Fun fact **I like travelling and reading books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
