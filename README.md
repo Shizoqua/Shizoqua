@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **hr.lanreshittu@gmail.com**
 
-- ⚡ Fun fact **I like travelling and reading books**
+- ⚡ Fun fact **I like travelling and conducting research**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
