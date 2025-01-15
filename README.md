@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lanre Shittu</h1>
-<h3 align="center">A passionate AI Engineer from United Kingdom</h3>
+<h3 align="center">A passionate Data Scientist/AI Engineer</h3>
 
 - 📫 How to reach me **hr.lanreshittu@gmail.com**
 
