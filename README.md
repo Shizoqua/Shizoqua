@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lanre Shittu. A Machine Learning/AI Engineer</h1>
-<p align="center">
+<p align="left">
   <a href="mailto:lanre.shittu@ieee.org">lanre.shittu@ieee.org</a></p>
 
 ## About Me
@@ -26,7 +26,6 @@ I am a Data and AI engineering leader with sustained professional practice and d
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
----
 
 ## 📊 GitHub Stats
 
