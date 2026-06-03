@@ -11,35 +11,38 @@ I am a Data and AI engineering leader with sustained professional practice and d
 
 ## What Drives Me
 
-- Impact: Delivering AI systems that improve decision making, user experience, and operational efficiency
-- Curiosity: Continuous learning across ML, LLMOps, RAG, and multi agent systems
-- Quality: Strong focus on robust evaluation, monitoring, and production readiness
-- Community: Sharing knowledge through mentoring, judged events, and open source contributions
+- 🌟 **Impact:** Delivering AI systems that improve decision making, user experience, and operational efficiency
+- 🤩 **Curiosity:** Continuous learning across ML, LLMOps, RAG, and multi agent systems
+- 🌐 **Quality:** Strong focus on robust evaluation, monitoring, and production readiness
+- 💡 **Community:** Sharing knowledge through mentoring, judged events, and open source contributions
 
 ## Expertise
 
 I specialize in transforming ideas into production systems through:
 
-- LLM and Agentic AI: Multi agent orchestration, supervisor executor patterns, tool use, and evaluation
-- LLMOps and RAG: Embeddings, knowledge retrieval, versioned prompt management, and accuracy improvement
-- Data Engineering: ETL pipelines for near real time data freshness using Python and SQL
-- Applied ML: Forecasting, classification, anomaly detection, and model deployment
-- Cloud and DevOps: Docker, Terraform, and cloud delivery on AWS and Azure
-- Research and Communication: Peer reviewed papers, technical writing, and conference presentations
+- Implementing **Agentic AI** to transform software into intelligent, autonomous systems capable of decision making and task execution
+- Deploying **Machine Learning** models with a keen focus on **Natural Language Processing** and LLM systems
+- Building **RAG and LLMOps** pipelines with embeddings, knowledge retrieval, and versioned prompt management
+- Delivering **Data Engineering** solutions with ETL pipelines for near real time data freshness using Python and SQL
+- Cloud and DevOps delivery on **AWS and Azure** using Docker and Terraform
+- Peer reviewed **Research and Publications** with conference presentations and technical writing
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0B1F3B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-14213D?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0A2540?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0B1F3B?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-1E293B?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-0B1F3B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-1E293B?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-14213D?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-EC4899?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ## Publications and Thought Leadership
@@ -51,52 +54,34 @@ I specialize in transforming ideas into production systems through:
 
 ## Technical Leadership and Community
 
-- Senior Machine Learning/AI Engineer at Fxbud Limited: led roadmap alignment across Product, Security, and Engineering; delivered a multi agent orchestration platform; improved task accuracy from 55 percent to 80 percent through LLMOps, RAG, and prompt versioning
+- Senior ML/AI Engineer at Fxbud Limited: led multi agent orchestration platform, improved task accuracy from 55% to 80% through LLMOps, RAG, and prompt versioning
 - Best Oral Presentation Award: The Future of Concrete Testing, Machine Learning Approach
-- Conference presentations including StoryCheck: A Scalable Framework for Automated Evaluation of Creative Writing using AI Agents (scheduled for IEEE publication)
 - Expert Judge: Bincom Hacking GenAI Hackathon 3.0 (2025) and 3MTT Regional AI Hackathon Challenge (2026)
 - Data validation volunteer: PlotWeaver Yoruba Voice Dataset Validation Programme (ongoing)
-- Open source contributions across major AI tooling and repositories (as shown on your GitHub activity)
 
-## GitHub Stats (Light Background, Navy Accents)
+---
 
+## 📊 GitHub Stats
+
+<!-- Row 1: Full width profile overview with contribution graph -->
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shizoqua&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=0B1F3B&text_color=111827&icon_color=1D4ED8&border_color=E5E7EB"
-    height="170"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizoqua&layout=compact&langs_count=8&bg_color=FFFFFF&title_color=0B1F3B&text_color=111827&icon_color=1D4ED8&border_color=E5E7EB"
-    height="170"
-  />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizoqua&theme=github" width="100%" />
 </div>
 
+<!-- Row 2: Top Languages by Repo + Top Languages by Commit + Stats -->
 <div align="center">
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shizoqua&background=FFFFFF&border=E5E7EB&stroke=111827&ring=0B1F3B&fire=1D4ED8&currStreakLabel=0B1F3B&sideLabels=0B1F3B&dates=374151"
-    height="180"
-  />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shizoqua&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shizoqua&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shizoqua&theme=github" width="32%" />
 </div>
 
+<!-- Row 3: Productive Time (Commits by hour) + Streak -->
 <div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shizoqua&bg_color=FFFFFF&color=0B1F3B&line=1D4ED8&point=111827&area=true&hide_border=true"
-    width="100%"
-  />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shizoqua&theme=github&utcOffset=0" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shizoqua&background=FFFFFF&border=E5E7EB&stroke=374151&ring=2563EB&fire=EC4899&currStreakLabel=2563EB&sideLabels=374151&dates=6B7280" width="48%" />
 </div>
 
+<!-- Trophy Cabinet -->
 <div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=shizoqua&theme=flat&no-frame=true&row=1&column=7"
-    width="100%"
-  />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=shizoqua&theme=flat&no-frame=true&row=1&column=7" width="100%" />
 </div>
