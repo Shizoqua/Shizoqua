@@ -33,11 +33,6 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
 
-  <!-- OpenAI -->
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/>
-  </a>
-
   <!-- LangChain -->
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
@@ -50,6 +45,31 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shizoqua&show_icons=true&locale=en&layout=compact" alt="shizoqua" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shizoqua&show_icons=true&locale=en" alt="shizoqua" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shizoqua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizoqua&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shizoqua&theme=tokyonight&hide_border=true" height="180em" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=shizoqua&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shizoqua&theme=tokyo-night&hide_border=true" />
+
+</div>
