@@ -34,25 +34,21 @@ I am a Data and AI engineering leader with sustained professional practice and d
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Full width profile overview with contribution graph -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizoqua&theme=github" width="100%" />
 </div>
 
-<!-- Row 2: Top Languages by Repo + Top Languages by Commit + Stats -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shizoqua&theme=github" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shizoqua&theme=github" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shizoqua&theme=github" width="32%" />
 </div>
 
-<!-- Row 3: Productive Time (Commits by hour) + Streak -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shizoqua&theme=github&utcOffset=0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shizoqua&background=FFFFFF&border=E5E7EB&stroke=374151&ring=2563EB&fire=EC4899&currStreakLabel=2563EB&sideLabels=374151&dates=6B7280" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shizoqua&background=FFFFFF&border=E5E7EB&stroke=374151&ring=2563EB&fire=EC4899&currStreakLabel=2563EB&sideLabels=374151&dates=6B7280" width="48%" />
 </div>
 
-<!-- Trophy Cabinet -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shizoqua&theme=flat&no-frame=true&row=1&column=7" width="100%" />
 </div>
