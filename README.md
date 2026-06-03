@@ -1,30 +1,16 @@
-<h1 align="center">Hi, I'm Lanre Shittu</h1>
-<h3 align="center">Machine Learning/AI Engineer</h3>
-
-<p align="left">
+<h1 align="center">Hi, I'm Lanre Shittu. A Machine Learning/AI Engineer</h1>
+<p align="centre">
   <a href="mailto:lanre.shittu@ieee.org">lanre.shittu@ieee.org</a></p>
 
 ## About Me
 
-I am a Data and AI engineering leader with sustained professional practice and documented technical leadership in production ML and LLM systems, peer reviewed publications, international conference presentations, and high impact open source contributions. I build reliable data pipelines, retrieval augmented generation systems, and agentic workflows that translate complex requirements into measurable outcomes.
+I am a Data and AI engineering leader with sustained professional practice and documented leadership in peer reviewed publications, international conference presentations, and high impact open source contributions. 
 
 ## What Drives Me
 
 - 🌟 **Impact:** Delivering AI systems that improve decision making, user experience, and operational efficiency
 - 🤩 **Curiosity:** Continuous learning across ML, LLMOps, RAG, and multi agent systems
-- 🌐 **Quality:** Strong focus on robust evaluation, monitoring, and production readiness
 - 💡 **Community:** Sharing knowledge through mentoring, judged events, and open source contributions
-
-## Expertise
-
-I specialize in transforming ideas into production systems through:
-
-- Implementing **Agentic AI** to transform software into intelligent, autonomous systems capable of decision making and task execution
-- Deploying **Machine Learning** models with a keen focus on **Natural Language Processing** and LLM systems
-- Building **RAG and LLMOps** pipelines with embeddings, knowledge retrieval, and versioned prompt management
-- Delivering **Data Engineering** solutions with ETL pipelines for near real time data freshness using Python and SQL
-- Cloud and DevOps delivery on **AWS and Azure** using Docker and Terraform
-- Peer reviewed **Research and Publications** with conference presentations and technical writing
 
 ## Tech Stack
 
@@ -43,20 +29,6 @@ I specialize in transforming ideas into production systems through:
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
-## Publications and Thought Leadership
-
-- GreenIQ: A Deep Search Platform for Comprehensive Carbon Market Analysis and Automated Report Generation (IEEE ICMLT, 2025)
-- Predicting Concrete Compressive Strength Using Various Machine Learning Models (Springer, 2025)
-- A Hybrid Retrieval Augmented Generation and Language Model Framework for Evidence Grounded Review Systems (2025)
-- LLMs and Vector Databases: Building Memory Architectures for AI Agents (Hackernoon, 30 Sept 2025)
-
-## Technical Leadership and Community
-
-- Senior ML/AI Engineer at Fxbud Limited: led multi agent orchestration platform, improved task accuracy from 55% to 80% through LLMOps, RAG, and prompt versioning
-- Best Oral Presentation Award: The Future of Concrete Testing, Machine Learning Approach
-- Expert Judge: Bincom Hacking GenAI Hackathon 3.0 (2025) and 3MTT Regional AI Hackathon Challenge (2026)
-- Data validation volunteer: PlotWeaver Yoruba Voice Dataset Validation Programme (ongoing)
 
 ---
 
