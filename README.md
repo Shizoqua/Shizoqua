@@ -1,19 +1,16 @@
 <h1 align="center">Hi, I'm Lanre Shittu. A Machine Learning/AI Engineer</h1>
-<p align="centre">
+<p align="center">
   <a href="mailto:lanre.shittu@ieee.org">lanre.shittu@ieee.org</a></p>
 
 ## About Me
-
 I am a Data and AI engineering leader with sustained professional practice and documented leadership in peer reviewed publications, international conference presentations, and high impact open source contributions. 
 
 ## What Drives Me
-
 - 🌟 **Impact:** Delivering AI systems that improve decision making, user experience, and operational efficiency
 - 🤩 **Curiosity:** Continuous learning across ML, LLMOps, RAG, and multi agent systems
 - 💡 **Community:** Sharing knowledge through mentoring, judged events, and open source contributions
 
 ## Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -29,7 +26,6 @@ I am a Data and AI engineering leader with sustained professional practice and d
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -47,8 +43,4 @@ I am a Data and AI engineering leader with sustained professional practice and d
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shizoqua&theme=github&utcOffset=0" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=shizoqua&background=FFFFFF&border=E5E7EB&stroke=374151&ring=2563EB&fire=EC4899&currStreakLabel=2563EB&sideLabels=374151&dates=6B7280" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shizoqua&theme=flat&no-frame=true&row=1&column=7" width="100%" />
 </div>
