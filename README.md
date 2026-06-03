@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Lanre Shittu</h1>
-<h3 align="center">Senior Machine Learning/AI Engineer | Data & AI Engineering | LLM Systems</h3>
+<h3 align="center">Machine Learning/AI Engineer</h3>
 
-<p align="center">
-  <a href="mailto:lanre.shittu@ieee.org">lanre.shittu@ieee.org</a> • United Kingdom
-</p>
+<p align="left">
+  <a href="mailto:lanre.shittu@ieee.org">lanre.shittu@ieee.org</a></p>
 
 ## About Me
 
