@@ -1,18 +1,9 @@
 <h1 align="center">Hi, I'm Lanre Shittu. A Machine Learning/AI Engineer</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" width="18" height="18" alt="Email" style="vertical-align: middle;" />
-  <a href="mailto:lanre.shittu@ieee.org">lanre.shittu@ieee.org</a>
-
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="18" height="18" alt="LinkedIn" style="vertical-align: middle;" />
-  <a href="https://www.linkedin.com/in/lanre-shittu-71aaa8263/" target="_blank" rel="noreferrer">LinkedIn</a>
-
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" width="18" height="18" alt="Google Scholar" style="vertical-align: middle;" />
-  <a href="https://scholar.google.com/citations?user=qK1-SLAAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer">Google Scholar</a>
+  <a href="mailto:lanre.shittu@ieee.org"><img src="https://img.shields.io/badge/lanre.shittu@ieee.org-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/lanre-shittu-71aaa8263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=qK1-SLAAAAAJ&hl=en&oi=ao" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
 </p>
 
 ## About Me
