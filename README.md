@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lanre Shittu</h1>
-<h3 align="center">A passionate ML/AI Engineer</h3>
+<h3 align="center">A passionate Data Scientist/AI Engineer | LLM & MLOps Specialist</h3>
 
-- 📫 How to reach me **lanre.shittu@ieee.org**
+- 📫 How to reach me **hr.lanreshittu@gmail.com**
 
-- ⚡ Fun fact **I like conducting research**
+- 🎓 MSc Applied AI & Data Analytics | MSc Civil & Structural Engineering
+
+- 🔭 Currently building **EuriFlow** — an Autonomous AI Workflow Engine
+
+- 🌍 Based in **West Yorkshire, UK**
+
+- ⚡ Fun fact **I love blending structural engineering with cutting-edge AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,25 +44,25 @@
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Profile Overview -->
+<!-- Row 1: Full width contribution graph -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizoqua&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizoqua&theme=vue" width="100%" />
 </div>
 
-<!-- Row 2: Top Languages by Repo + Top Languages by Commit -->
+<!-- Row 2: Languages + Stats -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shizoqua&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shizoqua&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shizoqua&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shizoqua&theme=vue" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shizoqua&theme=vue" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shizoqua&theme=vue" width="32%" />
 </div>
 
 <!-- Row 3: Productive Time + Streak -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shizoqua&theme=radical&utcOffset=0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shizoqua&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shizoqua&theme=vue&utcOffset=0" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shizoqua&theme=vue&hide_border=true" width="48%" />
 </div>
 
 <!-- Trophy Cabinet -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shizoqua&theme=radical&no-frame=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shizoqua&theme=flat&no-frame=true&row=1&column=7" width="100%" />
 </div>
